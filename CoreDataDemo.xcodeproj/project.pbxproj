@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		ED449FED27A1D065008D2B61 /* TaskViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED449FEC27A1D065008D2B61 /* TaskViewController.swift */; };
+		6220A0422BAA30F1008609D5 /* TaskViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6220A0412BAA30F1008609D5 /* TaskViewController.swift */; };
 		ED676D6527A1BF3E008AD1FD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED676D6427A1BF3E008AD1FD /* AppDelegate.swift */; };
 		ED676D6927A1BF3E008AD1FD /* TaskListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED676D6827A1BF3E008AD1FD /* TaskListViewController.swift */; };
 		ED676D6F27A1BF3E008AD1FD /* CoreDataDemo.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = ED676D6D27A1BF3E008AD1FD /* CoreDataDemo.xcdatamodeld */; };
@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		ED449FEC27A1D065008D2B61 /* TaskViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskViewController.swift; sourceTree = "<group>"; };
+		6220A0412BAA30F1008609D5 /* TaskViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TaskViewController.swift; sourceTree = "<group>"; };
 		ED676D6127A1BF3E008AD1FD /* CoreDataDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CoreDataDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED676D6427A1BF3E008AD1FD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		ED676D6827A1BF3E008AD1FD /* TaskListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskListViewController.swift; sourceTree = "<group>"; };
@@ -58,7 +58,7 @@
 			children = (
 				ED676D6427A1BF3E008AD1FD /* AppDelegate.swift */,
 				ED676D6827A1BF3E008AD1FD /* TaskListViewController.swift */,
-				ED449FEC27A1D065008D2B61 /* TaskViewController.swift */,
+				6220A0412BAA30F1008609D5 /* TaskViewController.swift */,
 				ED676D7027A1BF42008AD1FD /* Assets.xcassets */,
 				ED676D7227A1BF43008AD1FD /* LaunchScreen.storyboard */,
 				ED676D7527A1BF43008AD1FD /* Info.plist */,
@@ -138,7 +138,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				ED676D6927A1BF3E008AD1FD /* TaskListViewController.swift in Sources */,
-				ED449FED27A1D065008D2B61 /* TaskViewController.swift in Sources */,
+				6220A0422BAA30F1008609D5 /* TaskViewController.swift in Sources */,
 				ED676D6F27A1BF3E008AD1FD /* CoreDataDemo.xcdatamodeld in Sources */,
 				ED676D6527A1BF3E008AD1FD /* AppDelegate.swift in Sources */,
 			);
